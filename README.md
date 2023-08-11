@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohan029
 - 👀 I’m interested in AI/ML & Data Science
-- 🌱 I’m currently learning & practitioner of AI/ML & Data Science
+- 🌱 I’m currently learner & practitioner of AI/ML & Data Science
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 How to reach me Email: rohansutradhar35@gmail.com
 
